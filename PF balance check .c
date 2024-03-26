@@ -18,7 +18,7 @@ void function2(struct simple var1);
 int main()
 {
 	struct simple var1;
-	printf("\n\t -: SIMPLE INTEREST  CHECK :- \n");
+	printf("\n\t -:  SIMPLE INTEREST  CHECK  :- \n");
 	printf("\n Enter the principle amount: ");
 	scanf("%d",& var1.principle);
 	printf("\n Please Enter the Rate: ");
