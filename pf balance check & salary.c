@@ -6,9 +6,8 @@ void solve2(int,int,int);
 int main()
 {
 	int income,work,am,pf1,ch,pf2;
-    char ch1;
-    printf("\n\t-: SALARY AND PF BALANCE CHECK :-\n");
-	printf("\n How much is a daya's income?: ");
+    printf("\n\t-: PF BALANCE CHECK & SALARY :-\n");
+    printf("\n How much is a daya's income?: ");
 	scanf("%d",&income);
 	printf("\n How much work do you do in a month? : ");
 	scanf("%d",&work);
